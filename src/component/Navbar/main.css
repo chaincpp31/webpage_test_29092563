@@ -1,0 +1,17 @@
+.background-container {
+  padding: 0rem;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-sign-in {
+  padding: 0.5rem 0.8rem;
+  margin: 2rem;
+}
+.logo {
+  background-color: red;
+  padding: 3rem;
+  margin: 0rem;
+  border: 0rem;
+}
