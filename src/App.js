@@ -1,13 +1,14 @@
 import React from "react";
 import Navbar from "./component/Navbar";
 import Footer from "./component/Footer";
-import ContainerLayout from "./component/ContainerLayout";
+import Content from "./component/Content";
+import "./styles.css";
 
 function App() {
   return (
     <div>
       <Navbar />
-      <ContainerLayout />
+      <Content />
       <Footer />
     </div>
   );
